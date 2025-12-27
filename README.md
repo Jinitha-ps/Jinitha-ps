@@ -13,8 +13,7 @@
 ## 🔭 Interests
 - 📈 **Data Analytics & Business Intelligence**
 - 🤖 **Machine Learning & Predictive Modeling**
-- 🧠 **Generative AI & AI-driven Analytics**
-- 🏥 **Healthcare & Financial Analytics**
+- 🧠 **Creating Dashboards**
 - ⚙️ **Big Data Processing with Hadoop & Spark**
 
 ---
