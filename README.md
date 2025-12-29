@@ -6,8 +6,7 @@
 
 💼 My experience spans **Python, SQL, Power BI, and Excel**, with hands-on work in **EDA, ETL pipelines, predictive modeling, and dashboard development**. I’ve improved AI model accuracy by **63%**, reduced project cycle time by **25%**, and delivered **100+ analytical reports** supporting business and operational teams.
 
-🚀 I’m passionate about transforming raw data into meaningful insights, building scalable analytics solutions, and exploring **Machine Learning, Big Data, and Generative AI** applications.
-
+🚀 I’m passionate about transforming raw data into meaningful insights, building scalable analytics solutions, and exploring Machine Learning, SQL, and Power BI applications.
 ---
 
 ## 🔭 Interests
